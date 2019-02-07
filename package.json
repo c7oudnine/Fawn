@@ -1,6 +1,6 @@
 {
   "name": "@plasmapay/fawn",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "description": "Promise based library for transactions in MongoDB",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,7 @@
   "dependencies": {
     "bluebird": "3.5.0",
     "gridfs-stream": "1.1.1",
-    "mongoose": "^5.2.5",
+    "mongoose": "^5.2.5"
   },
   "devDependencies": {
     "chai": "4.1.0",
